@@ -30,5 +30,4 @@ Special thanks to Heiko Rabe (heiko.rabe@code-styling.de) for the idea to match 
 
 ## License
 Copyright (c) 2012 "dsci" Daniel Schmidt  
-Dual licensed under the MIT and GPL licenses.  
-<http://benalman.com/about/license/>
+Dual licensed under the MIT and GPL licenses. 
